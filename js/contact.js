@@ -4,6 +4,7 @@ var article = document.createElement('article');
 
 body.appendChild(article);
 article.setAttribute('class','article06');
+article.setAttribute('id','contact');
 article.innerHTML +='<div class="container"><div class="row"><div class="text-center"><h6>Contact Us</h6></div></div></div>';
 
 var jason = [{
