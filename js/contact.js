@@ -19,9 +19,9 @@ var jason = [{
    <div class="col-md-6">
        <div class="myContect">
 	        <ul>
-			    <li><i class="fa fa-map-marker" style="font-size:24px"></i> ${jason[0].ad}</li>
-				<li><a href="${jason[0].ph}"><i class="fa fa-phone" style="font-size:24px"></i> ${jason[0].ph}</a></li>
-				<li><a href="${jason[0].em}"><i class="fa fa-envelope" style="font-size:24px"></i> ${jason[0].em}</a></li>
+			     <li><i class="fa fa-map-marker" style="font-size:24px"></i> ${jason[0].ad}</li>
+				<li><a href="tel:${jason[0].ph}"><i class="fa fa-phone" style="font-size:24px"></i> ${jason[0].ph}</a></li>
+				<li><a href="mailto:${jason[0].em}"><i class="fa fa-envelope" style="font-size:24px"></i> ${jason[0].em}</a></li>
 			</ul>
 	   </div>
    </div>
