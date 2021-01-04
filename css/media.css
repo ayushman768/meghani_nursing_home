@@ -1,0 +1,26 @@
+@media(max-width:1200px){
+	.Meghani_nursing_home_nav {
+		display:none;
+	}
+	.menu_bar{
+	display:block!important;
+}
+	.pull {
+       float: none!important;
+     }
+	
+	/* - Service */
+	/* - Service */
+	.myService img{
+		 width: 100%!important;
+		height: auto!important;
+         display:block;
+	}
+	.column {
+		float: left;
+		width: 100%;
+		padding: 10px!important;
+    }
+	
+   
+}
